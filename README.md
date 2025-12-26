@@ -36,5 +36,19 @@ Hourly and customized subscription 29,700 Tomans
 ✅ Possibility of payment with Bitcoin or Tether
 
 
+
+You need to purchase a username and password for local clone.✔️ 
+
+clone to cmd os widows: 
+git clone https://github.com/heydari-919/WGTR-AI-.git
+python wgtr.py 
+
+for os Linux run as cmd : 
+apt update 
+apt upgrade 
+git clone https://github.com/heydari-919/WGTR-AI-.git
+python wgtr.py 
+
+
 H.ey 
 https://t.me/Heydari_0001

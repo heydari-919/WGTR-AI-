@@ -27,16 +27,6 @@ No need for interpreter 📌
 
 📌🔖Subscription conditions:
 
-🔗One-week subscription 50 thousand Tomans (suggested)
-
-🔗 Four-day subscription 28,700 Tomans
-
-Hourly and customized subscription 29,700 Tomans
-
-✅ Possibility of payment with Bitcoin or Tether
-
-
-
 You need to purchase a username and password for local clone.✔️ 
 
 clone to cmd os widows: 
